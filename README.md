@@ -57,7 +57,18 @@ I have worked in various projects related to python, data science, machine learn
 ## 👨‍💻Skills
 
 Areas I am good at from my point of view:
-* Python * Java * C++ * HTML * CSS * Mysql * Sqlite * Linux * Machine Learning * Deep Learning * Data Science * Mathematics
+* Python 
+* Java 
+* C++ 
+* HTML 
+* CSS 
+* Mysql 
+* Sqlite 
+* Linux 
+* Machine Learning 
+* Deep Learning 
+* Data Science 
+* Mathematics
 
 
 ## 📊My Github Stats
