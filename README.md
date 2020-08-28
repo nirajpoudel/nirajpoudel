@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src='https://nirajpoudel.pythonanywhere.com/static/portfolio/niraj.jpg' height="320px" width="320px"/>
-
 Hey👋🏻,
 
 This is Niraj Poudel from Nepal🇳🇵.
@@ -50,7 +48,7 @@ I have worked in various projects related to python, data science, machine learn
 🔭Exploring the new thing is always awesome. I’m currently working on the concept of deep learning; Convolutional neural network and Recurrent neural network. 
 
 
-
+## 📊My Github Stats
 
 <a href="https://github.com/nirajpoudel18/nirajpoudel18">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajpoudel18&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
