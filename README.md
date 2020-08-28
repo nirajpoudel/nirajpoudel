@@ -57,8 +57,7 @@ I have worked in various projects related to python, data science, machine learn
 ## 👨‍💻Skills
 
 Areas I am good at from my point of view:
-* Python 
-* Java 
+* Python  * Java 
 * C++ 
 * HTML 
 * CSS 
