@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **nirajpoudel18/nirajpoudel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src='https://lh3.googleusercontent.com/a-/AAuE7mAQeeR6m4VQ_tc7uNZCgPYiPWHcJnc6QjU86pt4=k-s328'/>
 
 Hey👋🏻,
 
@@ -27,7 +27,7 @@ I am a second year computer science undergraduate student at Patan College for P
 
 👉👉📧If any Queries directly mail me at nirajpoudel1818@gmail.com
 
-<h2>📬Get in touch</h2>
+## 📬Get in touch
 
 * Website🌐: https://nirajpoudel.pythonanywhere.com/
 
@@ -38,8 +38,11 @@ I am a second year computer science undergraduate student at Patan College for P
 * Kaggle📙: https://www.kaggle.com/nirajpoudel
 
 * Medium📚: https://medium.com/@nirajpoudel
+
 * StackOverflow❓: https://stackoverflow.com/users/11956613/niraj
+
 * HackerRank💻: https://www.hackerrank.com/nirajpoudel
 
 
+🔭 I’m currently working on the concept of deep learning. 
 
