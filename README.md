@@ -28,10 +28,15 @@ I am a second year computer science undergraduate student at Patan College for P
 👉👉📧If any Queries directly mail me at nirajpoudel1818@gmail.com
 
 <h2>📬Get in touch</h2>
+
 * Website🌐: https://nirajpoudel.pythonanywhere.com/
+
 * Twitter🐦: https://twitter.com/i_am_niraj_18
+
 * Linkedin💼: https://www.linkedin.com/in/nj18/
+
 * Kaggle📙: https://www.kaggle.com/nirajpoudel
+
 * Medium📚: https://medium.com/@nirajpoudel
 * StackOverflow❓: https://stackoverflow.com/users/11956613/niraj
 * HackerRank💻: https://www.hackerrank.com/nirajpoudel
