@@ -59,7 +59,7 @@ I have worked in various projects related to python, data science, machine learn
 ## 📊My Github Stats
 
 <a href="https://github.com/nirajpoudel18/nirajpoudel18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajpoudel18&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajpoudel18&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/nirajpoudel18/nirajpoudel18">
