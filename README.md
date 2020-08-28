@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src='https://lh3.googleusercontent.com/a-/AAuE7mAQeeR6m4VQ_tc7uNZCgPYiPWHcJnc6QjU86pt4=k-s328'/>
+<img src='https://nirajpoudel.pythonanywhere.com/static/portfolio/niraj.jpg'/>
 
 Hey👋🏻,
 
