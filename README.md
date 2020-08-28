@@ -43,9 +43,21 @@ I am a second year computer science undergraduate student at Patan College for P
 
 ## 🚧Completed Projects
 
-I have worked in various projects related to python, data science, machine learning and so on. 
+I have worked in various projects related to python, data science, machine learning and so on. Some of the projects that I have worked on are:
+* Chatbots
+* Event Management System
+* Shared Power
+* Recommendation Systems
+* Speech to Text and Text to Speech
+* Face Detection and Object Detection
+* Image Editing system
 
 🔭Exploring the new thing is always awesome. I’m currently working on the concept of deep learning; Convolutional neural network and Recurrent neural network. 
+
+## 👨‍💻Skills
+
+Areas I am good at from my point of view:
+* Python * Java * C++ * HTML * CSS * Mysql * Sqlite * Linux * Machine Learning * Deep Learning * Data Science * Mathematics
 
 
 ## 📊My Github Stats
