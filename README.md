@@ -52,7 +52,7 @@ I have worked in various projects related to python, data science, machine learn
 * Face Detection and Object Detection📷
 * Image Editing system🖼️
 
-🔭Exploring the new thing is always awesome. I’m currently working on the concept of deep learning; Convolutional neural network and Recurrent neural network. 
+🔭Exploring new thing is always awesome. I’m currently working on the concept of deep learning; Convolutional neural network and Recurrent neural network. Mathematics always stood up in the first place in my life. My interest on mathematics leads me to understand the concept of machine learning and deep learning easily. Working with these topics are always interesting until hardware get freezes😂.
 
 
 
