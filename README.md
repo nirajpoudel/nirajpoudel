@@ -3,6 +3,14 @@
 <!--
 **nirajpoudel18/nirajpoudel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hey👋🏻,
+
+This is Niraj Poudel from Nepal🇳🇵.
+
+I am a second year computer science undergraduate student at Patan College for Professional studies affiliated to University of Bedfordshire. I am interested in Data Science, Machine Learning, Deep Learning and Artificial Intelligence.
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
