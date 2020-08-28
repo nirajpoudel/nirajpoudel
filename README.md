@@ -52,9 +52,15 @@ I have worked in various projects related to python, data science, machine learn
 * Face Detection and Object Detection📷
 * Image Editing system🖼️
 
-## Skills
+## 🤹Skills
+
 Things I think I am good at:
-. Machine Learning . Data Science . Deep Learning . Linux
+
+* Data Science 📈
+* Machine Learning 🎰
+* Deep Learning 🧠
+* Linux 🖥️
+* Mathematics 🧮
 
 
 🔭Exploring new thing is always awesome. I’m currently working on the concept of deep learning; Convolutional neural network and Recurrent neural network. Mathematics always stood up in the first place in my life. My interest on mathematics leads me to understand the concept of machine learning and deep learning easily. Working with these topics are always interesting until hardware get freezes😂.
