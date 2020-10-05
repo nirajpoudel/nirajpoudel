@@ -54,6 +54,7 @@ I have worked in various projects related to python, data science, machine learn
 * Speech to Text and Text to Speech🗣️
 * Face Detection and Object Detection📷
 * Image Editing system🖼️
+* Web scrapping bots🐱‍💻
 
 ## 🤹Skills
 
