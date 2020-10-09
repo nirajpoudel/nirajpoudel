@@ -48,7 +48,7 @@ These days I am also dealing with Bitcoin, Ethereum.
 
 * HackerRank💻: https://www.hackerrank.com/nirajpoudel
 
-<a href="www.facebook.com">Facebook</a>
+<a href="https://nirajpoudel.pythonanywhere.com/">MY site</a>
 
 ## 🚧Completed Projects
 
