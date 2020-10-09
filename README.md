@@ -81,15 +81,3 @@ Things I think I am good at:
 </a>
 
 
-<br>
-
-
-
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger
-  chat-icon="https://storage.googleapis.com/cloudprod-apiai/c1f81264-21ba-4e31-aa85-76a5882f7050_x.png"
-  intent="WELCOME"
-  chat-title="Niraj"
-  agent-id="92e7519c-4cce-45d2-9220-d1c1cc6b64d0"
-  language-code="en"
-></df-messenger>
