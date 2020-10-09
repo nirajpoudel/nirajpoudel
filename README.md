@@ -48,6 +48,8 @@ These days I am also dealing with Bitcoin, Ethereum.
 
 * HackerRank💻: https://www.hackerrank.com/nirajpoudel
 
+<a href="www.facebook.com">Facebook</a>
+
 ## 🚧Completed Projects
 
 I have worked in various projects related to python, data science, machine learning and so on. Some of the projects that I have worked on are:
