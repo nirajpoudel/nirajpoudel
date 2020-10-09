@@ -87,6 +87,6 @@ Things I think I am good at:
   intent="WELCOME"
   chat-title="Niraj"
   agent-id="92e7519c-4cce-45d2-9220-d1c1cc6b64d0"
-  language-code="en">
-</df-messenger>
+  language-code="en"
+></df-messenger>
 
