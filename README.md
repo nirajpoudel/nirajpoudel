@@ -35,17 +35,11 @@ These days I am also dealing with Bitcoin, Ethereum.
 ## 📬Get in touch
 
 * <a href="https://nirajpoudel.pythonanywhere.com/">Website🌐</a>
-
 * <a href="https://twitter.com/i_am_niraj_18">Twitter🐦</a>
-
 * <a href="https://www.linkedin.com/in/nj18/">Linkedin💼</a>
-
 * <a href="https://www.kaggle.com/nirajpoudel">Kaggle📙</a>
-
 * <a href="https://medium.com/@nirajpoudel">Medium📚</a>
-
 * <a href="https://stackoverflow.com/users/11956613/niraj">StackOverflow❓</a>
-
 * <a href="https://www.hackerrank.com/nirajpoudel">HackerRank💻</a>
 
 
