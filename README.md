@@ -69,6 +69,7 @@ Things I think I am good at:
 🔭Exploring new thing is always awesome. I’m currently working on the concept of deep learning; Convolutional neural network and Recurrent neural network. Mathematics always stood up in the first place in my life. My interest on mathematics leads me to understand the concept of machine learning and deep learning easily. Working with these topics are always interesting until hardware get freezes😂.
 
 
+If you believe everyone have skills but certificate is the must. Then you can check this out <a href="https://github.com/nirajpoudel18/Python/tree/master/Certificates">here.</a>
 
 ## 📊My Github Stats
 
@@ -81,4 +82,4 @@ Things I think I am good at:
 </a>
 
 
-If you believe everyone have skills but certificate is the must. Then you can check this out <a href="https://github.com/nirajpoudel18/Python/tree/master/Certificates">here.</a>
+
