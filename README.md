@@ -34,7 +34,7 @@ These days I am also dealing with Bitcoin, Ethereum.
 
 ## 📬Get in touch
 
- <a href="https://nirajpoudel.pythonanywhere.com/"><img src="http://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Picture.png" height="40" width="40"></a>
+ <a href="https://nirajpoudel.pythonanywhere.com/"><img src="http://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Picture.png" height="45" width="45"></a>
  <a href="https://twitter.com/i_am_niraj_18"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" height="50" width="50"></a>
 <a href="https://www.linkedin.com/in/nj18/"><img src="https://www.mate.com.au/wp-content/uploads/2019/11/239-2391136_linkedin-logo-png-for-gmail-linkedin-logo-circle.jpg" height="45" width="45"></a>
 * <a href="https://www.kaggle.com/nirajpoudel">Kaggle📙</a>
