@@ -42,7 +42,7 @@ These days I am also dealing with Bitcoin, Ethereum.
 * <a href="https://stackoverflow.com/users/11956613/niraj">StackOverflow❓</a>
 * <a href="https://www.hackerrank.com/nirajpoudel">HackerRank💻</a>
 
-<img src="https://www.vhv.rs/dpng/d/298-2980248_tweet-twitter-picsart-picsartlogo-logo-lol-kakao-circle.png" height="50" width="50">
+<img src="https://www.vhv.rs/dpng/d/298-2980248_tweet-twitter-picsart-picsartlogo-logo-lol-kakao-circle.png" height="80" width="80">
 
 
 ## 🚧Completed Projects
