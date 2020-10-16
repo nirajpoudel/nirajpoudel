@@ -39,7 +39,7 @@ These days I am also dealing with Bitcoin, Ethereum.
 <a href="https://www.linkedin.com/in/nj18/"><img src="https://www.mate.com.au/wp-content/uploads/2019/11/239-2391136_linkedin-logo-png-for-gmail-linkedin-logo-circle.jpg" height="45" width="45"></a>
 * <a href="https://www.kaggle.com/nirajpoudel">Kaggle📙</a>
 <a href="https://medium.com/@nirajpoudel"><img src="https://cdn.iconscout.com/icon/free/png-512/medium-2296046-1912005.png" height="40" width="40"></a>
-* <a href="https://stackoverflow.com/users/11956613/niraj">StackOverflow❓</a>
+* <a href="https://stackoverflow.com/users/11956613/niraj"><img src="https://cdn.icon-icons.com/icons2/730/PNG/512/stackoverflow_icon-icons.com_62763.png" height="40" width="40"></a>
 * <a href="https://www.hackerrank.com/nirajpoudel">HackerRank💻</a>
 
 
