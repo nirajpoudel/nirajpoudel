@@ -40,7 +40,7 @@ These days I am also dealing with Bitcoin, Ethereum.
 * <a href="https://www.kaggle.com/nirajpoudel">Kaggle📙</a>
 <a href="https://medium.com/@nirajpoudel"><img src="https://cdn.iconscout.com/icon/free/png-512/medium-2296046-1912005.png" height="40" width="40"></a>
 * <a href="https://stackoverflow.com/users/11956613/niraj"><img src="https://cdn.icon-icons.com/icons2/730/PNG/512/stackoverflow_icon-icons.com_62763.png" height="40" width="40"></a>
-* <a href="https://www.hackerrank.com/nirajpoudel">HackerRank💻</a>
+* <a href="https://www.hackerrank.com/nirajpoudel"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" height="40" width="40"></a>
 
 
 
