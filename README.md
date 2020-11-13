@@ -26,7 +26,7 @@ Hey👋🏻,
 
 This is Niraj Poudel from Nepal 🇳🇵.
 
-I am a second year computer science undergraduate student at Patan College for Professional Studies affiliated to University of Bedfordshire. I am interested in Data Science, Machine Learning, Deep Learning and Artificial Intelligence. I have core skill in Python and some of other languages that I can deal with are Java and C++. I have been working with python for more than one and a half year.
+I am a second year computer science undergraduate student at Patan College for Professional Studies affiliated to University of Bedfordshire. I am interested in Data Science, Machine Learning, Deep Learning and Artificial Intelligence. I have core skill in Python and some of other languages that I can deal with are Java and C++. I have been working with python for more than two years.
 
 These days I am also dealing with Bitcoin, Ethereum.
 
@@ -67,9 +67,6 @@ Things I think I am good at:
 * Deep Learning 🧠
 * Linux 🖥️
 * Mathematics 🧮
-
-
-🔭Exploring new thing is always awesome. I’m currently working on the concept of deep learning; Convolutional neural network and Recurrent neural network. Mathematics always stood up in the first place in my life. My interest on mathematics leads me to understand the concept of machine learning and deep learning easily. Working with these topics are always interesting until hardware get freezes😂.
 
 
 If you believe everyone have skills but certificate is the must. Then you can check this out <a href="https://github.com/nirajpoudel18/Python/tree/master/Certificates">here.</a>
