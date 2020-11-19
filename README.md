@@ -58,18 +58,6 @@ I have worked in various projects related to python, data science, machine learn
 * Image Editing system🖼️
 * Web scrapping bots🐱‍💻
 
-## 🤹Skills
-
-Things I think I am good at:
-
-* Data Science 📈
-* Machine Learning 🎰
-* Deep Learning 🧠
-* Linux 🖥️
-* Mathematics 🧮
-
-
-If you believe everyone have skills but certificate is the must. Then you can check this out <a href="https://github.com/nirajpoudel18/Python/tree/master/Certificates">here.</a>
 
 ## 📊My Github Stats
 
