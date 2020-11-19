@@ -61,9 +61,10 @@ I have worked in various projects related to python, data science, machine learn
 
 ## 📊My Github Stats
 
+<p>
 ![Niraj's github stats](https://github-readme-stats.vercel.app/api?username=nirajpoudel18&show_icons=true&count_private=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajpoudel18&show_icons=true&count_private=true&theme=dark)](https://github.com/nirajpoudel18/github-readme-stats)
-
+[![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajpoudel18&show_icons=true&count_private=true&theme=dark)](https://github.com/nirajpoudel18/github-readme-stats)
+</p>
 
 
