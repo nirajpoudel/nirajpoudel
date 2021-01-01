@@ -2,7 +2,7 @@
 <!--
 **nirajpoudel18/nirajpoudel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <video width="850" height="250" controls>
- <img src="https://user-images.githubusercontent.com/59787504/103438583-544d8200-4c5c-11eb-9009-3c22b6673d53.mp4">
+ <source src="https://user-images.githubusercontent.com/59787504/103438583-544d8200-4c5c-11eb-9009-3c22b6673d53.mp4" type="video/mp4">
 </video>
 
 
