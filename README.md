@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=nirajpoudel18)
 
+<img src="https://storage.googleapis.com/molten/lava/2019/07/56ae7cce-best-artificial-intelligence-ai-courses.gif" height="50" width="500">
 
 Hey👋🏻,
 
@@ -41,9 +41,6 @@ These days I am also dealing with Cryptos.
 <a href="https://medium.com/@nirajpoudel"><img src="https://cdn.iconscout.com/icon/free/png-512/medium-2296046-1912005.png" height="40" width="40"></a>
 <a href="https://stackoverflow.com/users/11956613/niraj"><img src="https://cdn.icon-icons.com/icons2/730/PNG/512/stackoverflow_icon-icons.com_62763.png" height="40" width="40"></a>
 <a href="https://www.hackerrank.com/nirajpoudel"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" height="50" width="50"></a>
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter.com)
-
 
 
 ## 🚧Completed Projects
