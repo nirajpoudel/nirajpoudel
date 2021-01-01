@@ -2,7 +2,7 @@
 <!--
 **nirajpoudel18/nirajpoudel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img src="https://ibin.co/5mkIdkCLH1zX.png">
+<img src="https://ibin.co/w800/5mkQUBDEAIgH.png" height=20px width=100px>
 
 Hey👋🏻,
 
