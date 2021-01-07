@@ -18,7 +18,7 @@ These days I am also dealing with Cryptos.
 
  <a href="https://nirajpoudel.pythonanywhere.com/"><img src="http://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Picture.png" height="44" width="44"></a>
  <a href="https://twitter.com/i_am_niraj_18"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" height="55" width="55"></a>
-<a href="https://www.linkedin.com/in/nj18/"><img src="https://www.clipartmax.com/png/middle/304-3041379_linkedin-with-circle-comments-transparent-background-website-icon.png" height="50" width="47"></a>
+<a href="https://www.linkedin.com/in/nj18/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="50" width="47"></a>
 <a href="https://www.kaggle.com/nirajpoudel"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="42" width="42"></a>
 <a href="https://medium.com/@nirajpoudel"><img src="https://cdn.iconscout.com/icon/free/png-512/medium-2296046-1912005.png" height="40" width="40"></a>
 <a href="https://stackoverflow.com/users/11956613/niraj"><img src="https://cdn.icon-icons.com/icons2/730/PNG/512/stackoverflow_icon-icons.com_62763.png" height="40" width="40"></a>
