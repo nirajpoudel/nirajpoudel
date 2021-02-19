@@ -15,6 +15,8 @@ These days I am also dealing with Cryptos.
 
 👉👉📧If any Queries directly mail me at nirajpoudel1818@gmail.com
 
+Let's integrate Quantum Artificial Intelligence with Blockchain Technology.
+
 ## 📬Get in touch
 
  <a href="https://nirajpoudel.pythonanywhere.com/"><img src="http://www.pngall.com/wp-content/uploads/4/World-Wide-Web-PNG-Picture.png" height="44" width="44"></a>
