@@ -48,23 +48,3 @@ I have worked in various projects related to python, data science, machine learn
 [![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajpoudel&show_icons=true&count_private=true&theme=dark)](https://github.com/nirajpoudel18/github-readme-stats)
 
 [![Niraj StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11956613)](https://stackoverflow.com/users/11956613/niraj?tab=profile)
-
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-<html>
-<body>
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/nirajpoudel18 rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-18cf91ac-01e7-46ea-88c1-3b6d7d921a1b' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >nirajpoudel18</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Hi there, my name is Niraj. I'm a data analyst with 3+ years of experience interpreting and analyzing data to drive successful business solution. An experienced market researcher that can convert knowledge into a beautiful content and a qualified python developer that can write any sorts of scripts as per your request. So, please don't hesitate to contact me. Thank you and I look forward to working with you all here in Fiverr!</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-18cf91ac-01e7-46ea-88c1-3b6d7d921a1b' src='https://widgets.fiverr.com/api/v1/seller/nirajpoudel18?widget_id=18cf91ac-01e7-46ea-88c1-3b6d7d921a1b' data-config='{"category_name":"Data"}' async='true' defer='true'></script>
-
-</body>
-</html>
