@@ -50,7 +50,8 @@ I have worked in various projects related to python, data science, machine learn
 [![Niraj StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11956613)](https://stackoverflow.com/users/11956613/niraj?tab=profile)
 
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
+<html>
+<body>
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/nirajpoudel18 rel="nofollow" target="_blank" style='display: inline-block;'>
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-18cf91ac-01e7-46ea-88c1-3b6d7d921a1b' itemprop='contentURL' style='display: none;'></div>
@@ -65,3 +66,5 @@ I have worked in various projects related to python, data science, machine learn
 
 <script id='fiverr-seller-widget-script-18cf91ac-01e7-46ea-88c1-3b6d7d921a1b' src='https://widgets.fiverr.com/api/v1/seller/nirajpoudel18?widget_id=18cf91ac-01e7-46ea-88c1-3b6d7d921a1b' data-config='{"category_name":"Data"}' async='true' defer='true'></script>
 
+</body>
+</html>
