@@ -9,7 +9,7 @@ Hey👋🏻,
 
 This is Niraj from Nepal 🇳🇵.
 
-I am a second year computer science undergraduate student at Patan College for Professional Studies affiliated to University of Bedfordshire. I am interested in Data Science, Machine Learning, Deep Learning and Artificial Intelligence. I have core skill in Python and some of other languages that I can deal with are Java and C++. I have been working with python for more than two years.
+I am a computer science undergraduate at Patan College for Professional Studies affiliated to University of Bedfordshire. I am interested in Data Science, Machine Learning, Deep Learning and Artificial Intelligence. I have core skill in Python and some of other languages that I can deal with are Java and C++. I have been working with python for more than two years.
 
 These days I am also dealing with Cryptos.
 
@@ -32,8 +32,7 @@ Let's integrate Quantum Artificial Intelligence with Blockchain Technology.
 
 I have worked in various projects related to python, data science, machine learning and so on. Some of the projects that I have worked on are:
 * Chatbots🤖
-* Event Management System📅
-* Shared Power 💁 ♂
+* Management System📅
 * Recommendation Systems📖
 * Speech to Text and Text to Speech🗣️
 * Face Detection and Object Detection📷
