@@ -9,7 +9,7 @@ Hey👋🏻,
 
 This is Niraj from Nepal 🇳🇵.
 
-I am a computer science undergraduate at Patan College for Professional Studies affiliated to University of Bedfordshire. I am interested in Data Science, Machine Learning, Deep Learning, Artificial Intelligence & Blockchain. 
+I am a computer science undergraduate at Patan College for Professional Studies affiliated to University of Bedfordshire. I am interested in Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Blockchain and Cyber Security. 
 
 These days I am also dealing with Cryptos.
 
